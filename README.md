@@ -1,5 +1,8 @@
 # Mailspring Theme Starter
 
+Ironically, this just worked the way I wanted it to when I loaded it - a dark theme UI with a light (normal) theme reader for emails. The dark theme for body content was a bit too much even for me.
+
+-----
 The Mailspring Theme Starter is a basic starting point for creating a theme for
 the [Mailspring](http://www.getmailspring.com/) email client.
 
